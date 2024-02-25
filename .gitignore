@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#other dev mds 
+keyboard-shortcuts.md
+git-workflow.md
