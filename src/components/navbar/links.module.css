@@ -1,7 +1,7 @@
 .links {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 3px;
 }
 .logout {
   cursor: pointer;
@@ -31,10 +31,11 @@
   display: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 790px) {
   .links {
     display: none;
   }
+
   .menuButton {
     display: block;
     cursor: pointer;

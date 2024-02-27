@@ -5,19 +5,19 @@ import styles from './links.module.css';
 import NavLink from './navlink/NavLink';
 const links = [
   {
-    title: 'HomePage🏠',
+    title: 'HomePage',
     path: '/',
   },
   {
-    title: 'Contact📫',
+    title: 'Contact',
     path: '/contact',
   },
   {
-    title: 'Blog📔',
+    title: 'Blog',
     path: '/blog',
   },
   {
-    title: 'About🧔',
+    title: 'About',
     path: '/about',
   },
 ];
